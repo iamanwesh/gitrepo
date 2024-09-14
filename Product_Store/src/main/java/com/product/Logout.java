@@ -1,8 +1,10 @@
 package com.product;
 import java.io.*;
+
 import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
+
 @SuppressWarnings("serial")
 @WebServlet("/logout")
 public class Logout extends HttpServlet{

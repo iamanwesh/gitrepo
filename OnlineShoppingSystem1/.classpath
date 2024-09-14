@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/OnlineShopingSystemAdmin"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -11,5 +12,6 @@
 	<classpathentry kind="lib" path="C:/Users/litun/OneDrive/Desktop/DB_jar/servlet-api.jar"/>
 	<classpathentry kind="lib" path="C:/Users/litun/OneDrive/Desktop/DB_jar/commons-io-1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/litun/OneDrive/Desktop/DB_jar/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/My Product Store/OnlineShopingSystemAdmin"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
